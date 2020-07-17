@@ -10,7 +10,7 @@ An Arduino project forked and tailored for LoRa32...
 Use Cases!
 <br><br>
 
-The buildin Web interface w/ LoRa32 module <br>
+The builtin Web interface w/ LoRa32 module <br>
 <img src="pictures/DSweb0716.jpg" width=480/> &nbsp;&nbsp;&nbsp;<img src="pictures/LoRa32_0715.png" width=240/>
 <br><br>
 
