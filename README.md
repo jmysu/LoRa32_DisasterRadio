@@ -14,8 +14,8 @@ The builtin Web interface w/ LoRa32v1 module <br>
 <img src="pictures/DSweb0716.jpg" width=480/> &nbsp;&nbsp;&nbsp;<img src="pictures/LoRa32_0715.png" width=240/>
 <br><br>
 
-Another interesting project
-<img src="pictures/SparrowSummary.png">
+Another interesting project, see linked reference.
+<img src="pictures/SparrowSummary.png" width=640/>
 
 ## References
   - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa) An Arduino library for sending and receiving data using LoRa radios.
