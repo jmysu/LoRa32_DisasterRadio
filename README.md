@@ -6,8 +6,8 @@ ESP32 TTGO Lora32 w/ DisasterRadio.
 
 An Arduino project forked and tailored for LoRa32...
 <br><br>
+Use Cases...
 <img src="pictures/LoRaUseCases20200715.png" width=800/>
-Use Cases!
 <br><br>
 
 The builtin Web interface w/ LoRa32 module <br>
