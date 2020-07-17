@@ -14,7 +14,7 @@ Lora Range vs bandwidth...
 <img src="pictures/LoRaRange.png" width=640/>
 <br><br>
 
-The builtin Web interface w/ LoRa32v1 module <br>
+Disaster-Radio builtin Web interface w/ LoRa32v1 module, code in PlatformIO/firmware. <br>
 <img src="pictures/DSweb0716.jpg" width=480/> &nbsp;&nbsp;&nbsp;<img src="pictures/LoRa32_0715.png" width=240/>
 <br><br>
 
