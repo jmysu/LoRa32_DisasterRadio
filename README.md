@@ -15,7 +15,7 @@ The builtin Web interface w/ LoRa32v1 module <br>
 <br><br>
 
 Another interesting project
-<img src="pictures/SparrowSummary.png"
+<img src="pictures/SparrowSummary.png">
 
 ## References
   - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa) An Arduino library for sending and receiving data using LoRa radios.
