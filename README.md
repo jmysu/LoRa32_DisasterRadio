@@ -15,5 +15,5 @@ The buildin Web interface w/ LoRa32 module <br>
 <br><br>
 
 ## References
-  - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa)An Arduino library for sending and receiving data using LoRa radios.
-  - [DisasterRadio](https://github.com/sudomesh/disaster-radio)_disaster.radio_ is a work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
+  - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa) An Arduino library for sending and receiving data using LoRa radios.
+  - [DisasterRadio](https://github.com/sudomesh/disaster-radio) _disaster.radio_ is a work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
