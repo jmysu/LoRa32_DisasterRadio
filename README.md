@@ -1,5 +1,5 @@
 # LoRa32_DisasterRadio [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
-A tool for using in disasters https://disaster.radio/ <br><br>
+A tool might useful in disasters https://disaster.radio/ <br><br>
 
 ESP32 TTGO Lora32 w/ DisasterRadio.
 
@@ -15,5 +15,5 @@ The buildin Web interface w/ LoRa32 module <br>
 <br><br>
 
 ## References
-  - [Arduino LoRa Library]()
+  - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa)
   - [DisasterRadio](https://github.com/sudomesh/disaster-radio)
