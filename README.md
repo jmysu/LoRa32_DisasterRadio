@@ -10,11 +10,8 @@ An Arduino project forked and tailored for LoRa32...
 <br><br>
 
 The buildin Web interface <br>
-<img src="pictures/DSWeb0715.png" width=640/> &nbsp;&nbsp;&nbsp; 
-<br><br>
-
-<br>
-<img src="pictures/LoRa32_0716.png" width=480/>
+<img src="pictures/DSweb0716.png" width=640/> &nbsp;&nbsp;&nbsp;
+<img src="pictures/LoRa32_0715.png" width=480/>
 <br><br>
 
 ## References
