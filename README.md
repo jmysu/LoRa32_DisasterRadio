@@ -14,6 +14,10 @@ The builtin Web interface w/ LoRa32v1 module <br>
 <img src="pictures/DSweb0716.jpg" width=480/> &nbsp;&nbsp;&nbsp;<img src="pictures/LoRa32_0715.png" width=240/>
 <br><br>
 
+Another interesting project
+<img src="pictures/SparrowSummary.png"
+
 ## References
   - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa) An Arduino library for sending and receiving data using LoRa radios.
   - [DisasterRadio](https://github.com/sudomesh/disaster-radio) _disaster.radio_ is a work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
+  - [Sparrow Platform](https://github.com/sparrow-platform/sparrow/wiki) Medical and psychological well-being during and after disasters is a two-part communication and logistics problem...
