@@ -1,8 +1,8 @@
 # LoRa32_DisasterRadio [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 A tool might be useful in disaster! https://disaster.radio/ <br><br>
+and they got an intro youtube video here: https://youtu.be/uZkGudvjNzw
 
-ESP32 TTGO Lora32 w/ DisasterRadio.
-
+## ESP32 TTGO Lora32 w/ DisasterRadio.
 
 An Arduino project forked and tailored for LoRa32(v1)...
 <br><br>
@@ -14,11 +14,11 @@ Lora Range vs bandwidth...
 <img src="pictures/LoRaRange.png" width=640/>
 <br><br>
 
-Disaster-Radio builtin Web interface w/ LoRa32v1 module, code in PlatformIO/firmware. <br>
+Disaster-Radio builtin Web interface w/ LoRa32v1 module, codes are in PlatformIO/project/firmware folder. <br>
 <img src="pictures/DSweb0716.jpg" width=480/> &nbsp;&nbsp;&nbsp;<img src="pictures/LoRa32_0715.png" width=240/>
 <br><br>
 
-Another interesting project, see linked reference.<br>
+_Another interesting project, see linked reference._<br>
 <img src="pictures/SparrowSummary.png" width=480/>
 <br><br>
 ## References
