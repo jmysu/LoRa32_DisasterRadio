@@ -24,5 +24,5 @@ _Another interesting project, see linked reference._<br>
 ## References
   - [Arduino LoRa Library](https://github.com/sandeepmistry/arduino-LoRa) An Arduino library for sending and receiving data using LoRa radios.
   - [DisasterRadio](https://github.com/sudomesh/disaster-radio) _disaster.radio_ is a work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
-  - [Online Solar Irradiance figures](http://www.solarelectricityhandbook.com/solar-irradiance.html) Nice guide to check the city w/ solar irradiance.
+  - [Online Solar Irradiance figures](http://www.solarelectricityhandbook.com/solar-irradiance.html) Nice guide to check where the city w/ solar irradiance for solar powering requirements.
   - [Sparrow Platform](https://github.com/sparrow-platform/sparrow/wiki) Medical and psychological well-being during and after disasters is a two-part communication and logistics problem...
