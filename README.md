@@ -10,8 +10,8 @@ Use Cases...
 <img src="pictures/LoRaUseCases20200715.png" width=800/>
 <br><br>
 
-Lora Range vs bandwidth...
-<img src="pictures/LoRaRange.png" width=640/>
+Lora got smaller bandwidth(power) but much longer Range...
+<img src="pictures/LoRa_Why_Range.png" width=640/>
 <br><br>
 
 Disaster-Radio builtin Web interface w/ LoRa32v1 module, codes are in PlatformIO/project/firmware folder. <br>
